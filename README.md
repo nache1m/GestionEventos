@@ -69,6 +69,7 @@ Se implementaron pruebas unitarias utilizando Jest, buscando asegurar el correct
 
 ## 📌 Notas
 
-Este proyecto fue realizado con fines académicos.
+- Este proyecto fue realizado con fines académicos.
+- Este repositorio fue copiado del original (por eso no estan los commits, prs y demás)
 
 ---
