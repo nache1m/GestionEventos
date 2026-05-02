@@ -1,13 +1,63 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19359793&assignment_repo_type=AssignmentRepo)
+# 🎉 Sistema de Gestión de Eventos
 
-# Proyecto 2025 S1
+## 📖 Descripción
+Este proyecto consiste en una aplicación web desarrollada para la gestión de eventos sociales, como bodas y cumpleaños de 15. 
 
-## ⚠️ IMPORTANTE ⚠️
+El sistema permite organizar de forma eficiente todos los aspectos del evento, incluyendo la administración de invitados, mesas, confirmaciones de asistencia y notificaciones.
 
-La documentación del proyecto se encuentra en la carpeta `docs`. Dicha documentación debe ser entregada en formato PDF por el sistema de gestión.  
-El primer informe (`informe_1`) para la primer entrega, y el segundo informe (`informe_2`) para la segunda entrega.
+Fue desarrollado como parte del curso de Fundamentos de Ingeniería de Software (Universidad ORT Uruguay).
 
-## Estructura del proyecto
+---
+
+## 👥 Equipo de trabajo
+Este proyecto fue realizado en conjunto por:
+
+- Ignacio Parrado
+- Nikolas Remlinger
+- Cristian Camejo
+
+---
+
+## 🚀 Funcionalidades principales
+
+- ✅ Creación y gestión de eventos
+- 👤 Administración de usuarios (organizador, anfitrión, invitado)
+- 📩 Envío de invitaciones
+- ✔️ Confirmación de asistencia (RSVP)
+- 🍽️ Asignación de mesas
+- 🔔 Sistema de notificaciones
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML
+- CSS / Bootstrap
+- JavaScript (Programación Orientada a Objetos)
+- Jest (testing unitario)
+
+---
+
+## 🧩 Arquitectura / Enfoque
+
+La aplicación fue desarrollada siguiendo un enfoque orientado a objetos, utilizando clases como:
+
+- Usuario
+- Evento
+- Invitación
+- Mesa
+
+Esto permite una mejor organización del código, reutilización y mantenimiento del sistema.
+
+---
+
+## 📊 Calidad y testing
+
+Se implementaron pruebas unitarias utilizando Jest, buscando asegurar el correcto funcionamiento de las principales funcionalidades del sistema.
+
+---
+
+## 📁 Estructura del proyecto
 
 - `docs`: Documentación del proyecto
   - `img`: Imágenes del informe
@@ -17,6 +67,8 @@ El primer informe (`informe_1`) para la primer entrega, y el segundo informe (`i
 - `package.json`: Archivo de configuración de npm
 - `eslint.config.js`: Archivo de configuración de ESLint
 
-## Recordar
+## 📌 Notas
 
-La letra del proyecto, el enunciado problema y la rúbrica (criterios de evaluación del proyecto) se encuentra en el sitio de Aulas.
+Este proyecto fue realizado con fines académicos.
+
+---
